@@ -44,6 +44,7 @@ Se selecciona una opcion y luego se ingresa el mensaje
 Ingrese el mensaje: hola
 Mensaje cifrado en MD5: 4D186321C1A7F0F354B297E8914AB240
 
+<img src="https://raw.githubusercontent.com/kuaks96/Criptografia/blob/main/cripto.jpg" alt="Panel de menu">
 
 
 Autor
