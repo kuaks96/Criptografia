@@ -24,7 +24,7 @@ Ademas se utiliza  Bash, para el menu de opciones.
 
 Instrucciones de uso
 
-git clone https://github.com/tu_usuario/criptografia-c-cpp.git
+git clone https://github.com/kuaks96/Criptografia
 
 se ejecuta 
 ./main.sh
